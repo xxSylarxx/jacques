@@ -27,28 +27,89 @@
 
     .topcontrol2 {
         position: fixed;
-        bottom: 80px;
-        right: 80px;
-        /* opacity: 0.8; */
+        bottom: 50px;
+        right: 18px;
+        opacity: 0.8;
         cursor: pointer;
+        z-index: 100;
+        background: #00D553;
+        width: 50px;
+        height: 50px;
+        padding-top: 4px;
+        padding-left: 8px;
+        /* border: 2px solid white; */
+        border-radius: 50%;
+        transition: all 3 ease-in-out;
+    }
+
+    .topcontrol2:hover {
+        transform: scale(1.08);
+    }
+
+    .topcontrol2 i {
+        color: white;
+        margin-top: 2px;
+        margin-left: 2px;
+    }
+
+    .topcontrol3 {
+        position: fixed;
+        bottom: 112px;
+        right: 18px;
+        opacity: 0.8;
+        cursor: pointer;
+        z-index: 100;
+        background-color: rgb(31, 202, 216, 1);
+        width: 50px;
+        height: 50px;
+        padding-top: 4px;
+        padding-left: 8px;
+        /* border: 2px solid white; */
+        border-radius: 50%;
+        transition: all 3 ease-in-out;
+    }
+
+   
+    .topcontrol3 i {
+        position: absolute;
+        color: white;
+        font-size: 25px;
+        top: 20%;
+        left: 30%;
+
+        /* margin-top: 2px;
+        margin-left: 2px; */
+    }
+
+    .topcontrol3:hover {
+        transform: scale(1.08);
+    }
+
+
+    /* .topcontrol2 {
+        position: fixed;
+        bottom: 80px;
+        right: 80px; */
+    /* opacity: 0.8; */
+    /* cursor: pointer;
         z-index: 100;
         width: 180px;
         height: 30px;
         background: #F8F9FA;
         border-radius: 0.25rem;
-        border: 1px solid #dee2e6;
-        /* padding-top: 6px; */
-        /* padding-left: 9px; */
-        /* border-radius: 50%; */
-        transition: all 2 ease-in-out;
-    }
+        border: 1px solid #dee2e6; */
+    /* padding-top: 6px; */
+    /* padding-left: 9px; */
+    /* border-radius: 50%; */
+    /*  transition: all 2 ease-in-out;
+    } */
 
-    .topcontrol2 span {
+    /* .topcontrol2 span {
         text-align: center;
         font-weight: bold;
         color: var(--color1);
         padding: 1rem 2rem;
-    }
+    } */
 
     .topcontrol4 {
         position: fixed;
@@ -238,19 +299,36 @@
 
 
 </footer>
-<div class="bar-inf2" style="position: fixed; bottom: 60px; right: 20px; z-index: 999;">
-    <a href="https://wa.me/+51948886928" target="_blank" class="text-success">
-        <!-- <span class="py-2 px-3 border bg-light rounded">¿Necesita ayuda?</span> -->
-        <img src="./public/img/icons/whatsapp.png" width="60" class="ms-2">
+<div class="topcontrol2">
+    <a href="https://wa.me/+51948886928" target="_blank">
+        <span>
+            <i class="fab fa-whatsapp fa-2x"></i>
+        </span>
     </a>
 </div>
-<!-- <div class="container-fluid" style="background-color: var(--color2);">
+<!-- <div class="topcontrol3">
+    <a href="ss">
+        <span>
+            <i class="fas fa-file-signature"></i>
+        </span>
+
+    </a>
+</div> -->
+<!-- <div class="bar-inf2" style="position: fixed; bottom: 60px; right: 20px; z-index: 999;">
+    <a href="https://wa.me/+51948886928" target="_blank" class="text-success">
+        <span class="py-2 px-3 border bg-light rounded">¿Necesita ayuda?</span> -->
+<!-- <img src="./public/img/icons/whatsapp.png" width="60" class="ms-2">
+    </a>
+</div> -->
+
+
+<div class="container-fluid" style="background-color: var(--color2);">
     <div class="row ">
         <div class="col-lg-12 my-1 d-flex justify-content-center">
             <span style="text-align:center;color:var(--color1);font-size:15px;">© 2024 Todos los derechos reservados, Berkeley.</span>
         </div>
     </div>
-</div> -->
+</div>
 <section class="container-fluid pb-1" style="background-color:var(--color2);">
     <div class="container">
         <div class="row">

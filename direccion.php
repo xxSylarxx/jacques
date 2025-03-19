@@ -375,8 +375,16 @@
                             </div>
                             <div class="separador"></div>
                         </div>
-                        <div style="padding:3rem;color:var(--color2);line-height:2rem;">
-                            <ol>
+                        <div style="padding:3rem;color:var(--color6);line-height:2rem;">
+                            <span>Estimadas familias, estudiantes y comunidad educativa, Es un honor darles la bienvenida a Al Colegio Jacques Cousteau, un espacio donde el aprendizaje, los valores y el crecimiento personal van de la mano. En nuestra institución, creemos en la educación como el motor del cambio y en cada estudiante como el protagonista de su propio futuro.
+                                Nuestro compromiso es brindar una formación integral, fomentando la excelencia académica, la creatividad y el desarrollo de habilidades para la vida. Contamos con un equipo docente altamente capacitado y apasionado, así como con un ambiente seguro e inclusivo que permite a cada alumno alcanzar su máximo potencial.
+                            </span>
+                            <br><br>
+                            <span>Los invitamos a explorar nuestra página web, donde encontrarán información sobre nuestro proyecto educativo, actividades, logros y todo lo que hace del Colegio Jacques Cousteau un lugar especial. Juntos, seguimos construyendo un camino de éxito para Vuestros hijos. ¡Bienvenidos a nuestra gran familia educativa!
+                            </span>
+                            <br><br>
+                            <span style="font-weight:900;color:var(--color1);">¡Bienvenidos a nuestra gran familia educativa!</span>
+                            <!-- <ol>
                                 <li><span>Cumplimiento Normativo: </span><br>
                                     <p>Velar por el cumplimiento de las disposiciones de las diferentes entidades gubernamentales.</p>
                                 </li>
@@ -403,7 +411,7 @@
                                     <br>
                                     <p>La gestión pedagógica es clave para el funcionamiento eficiente y efectivo de una institución educativa. </p>
                                 </li>
-                            </ol>
+                            </ol> -->
 
                         </div>
                     </div>

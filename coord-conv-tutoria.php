@@ -369,8 +369,18 @@
                             </div>
                             <div class="separador"></div>
                         </div>
-                        <div style="padding:3rem;color:var(--color2);line-height:2rem;">
-                            <ol>
+                        <div style="padding:3rem;color:var(--color6);line-height:2rem;">
+                            <span>Querida comunidad educativa:
+                                En el Colegio Jacques Cousteau, creemos que el bienestar emocional y la convivencia armoniosa son pilares fundamentales para el aprendizaje y el desarrollo integral de nuestros estudiantes.
+                                Nuestro compromiso es brindar un entorno seguro, inclusivo y de respeto, donde cada alumno se sienta acompañado, escuchado y motivado a alcanzar su máximo potencial.
+                            </span>
+                            <br><br>
+                            <span>Desde el área de Bienestar, Tutoría y Convivencia, trabajamos día a día para fortalecer los lazos de nuestra comunidad, promover valores como la empatía y el respeto, y brindar el apoyo necesario para el crecimiento personal y académico de cada uno.
+                            </span>
+                            <br><br>
+                            <span>Los invitamos a conocer más sobre nuestras iniciativas y programas a través de esta página web. ¡Juntos construimos un ambiente donde todos podemos aprender y crecer con alegría y seguridad!
+                            </span>
+                            <!-- <ol>
                                 <li><span>Mantener un buen clima escolar:</span><br>
                                     <p>Crear un ambiente en el que los estudiantes se sientan seguros y respetados, mediante la implementación de normas claras y justas que promuevan la convivencia y el autocontrol.</p>
                                 </li>
@@ -397,7 +407,7 @@
                                     <br>
                                     <p>Fomentar relaciones humanas armoniosas en la comunidad educativa, promoviendo la fraternidad, cooperación y ayuda mutua entre estudiantes, personal y padres de familia.</p>
                                 </li>
-                            </ol>
+                            </ol> -->
 
                         </div>
                     </div>
@@ -427,7 +437,7 @@
             <div class="row d-flex justify-content-center" data-aos="zoom-in">
                 <div class="col-lg-6" style="padding-top: 5rem;padding-bottom:5rem;">
                     <h2 style="color:var(--color4);text-align:center;">
-                    Próximamente aquí encontrará información de su interés</h2>
+                        Próximamente aquí encontrará información de su interés</h2>
                 </div>
 
             </div>

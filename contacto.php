@@ -161,6 +161,11 @@
                             <span> <i class="fas fa-phone"></i> </span>
                             <h5> (51) 948 886 928 </h5>
                         </div>
+                        <div class="d-flex item">
+                            <span><i class="fab fa-facebook"></i></i> </span>
+                            <h5><a href="https://www.facebook.com/p/Colegio-Jacques-Cousteau-La-Molina" target="_blank">Facebook</a></h5>
+                        </div>
+                    
 
                         <div class="mt-4">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11035.900566198792!2d-76.94568353167335!3d-12.058648155370793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c694e7fbe8f1%3A0x3a08562c20d83bfd!2sAv.%20Separadora%20Industrial%203250%2C%20Lima%2015012!5e0!3m2!1ses!2spe!4v1724953317153!5m2!1ses!2spe" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

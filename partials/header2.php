@@ -206,9 +206,9 @@ switch ($pagina) {
                             <a class="dropdown-item" href="./somos.php">Quiénes Somos</a>
                             <a class="dropdown-item" href="./historia.php">Historia</a>
                             <a class="dropdown-item" href="./direccion.php">Dirección General</a>
-                            <a class="dropdown-item" href="./coord-academica.php">Coordinación Académica</a>
+                            <!-- <a class="dropdown-item" href="./coord-academica.php">Coordinación Académica</a> -->
                             <a class="dropdown-item" href="./coord-conv-tutoria.php">Coordinación de Convivencia y Tutoría</a>
-                            <a class="dropdown-item" href="./dpto-psicologia.php">Departamento Psicopedagógico</a>
+                            <!-- <a class="dropdown-item" href="./dpto-psicologia.php">Departamento Psicopedagógico</a> -->
 
                             <!-- <a class="dropdown-item" href="ptrabajo.php">Plan de Trabajo</a> -->
                         </div>

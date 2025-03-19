@@ -212,33 +212,16 @@ switch ($pagina) {
                             <a class="dropdown-item" href="./somos.php">Quiénes Somos</a>
                             <a class="dropdown-item" href="./historia.php">Historia</a>
                             <a class="dropdown-item" href="./direccion.php">Dirección General</a>
-                            <a class="dropdown-item" href="./coord-academica.php">Coordinación Académica</a>
+                            <!-- <a class="dropdown-item" href="./coord-academica.php">Coordinación Académica</a> -->
                             <a class="dropdown-item" href="./coord-conv-tutoria.php">Coordinación de Convivencia y Tutoría</a>
-                            <a class="dropdown-item" href="./dpto-psicologia.php">Departamento Psicopedagógico</a>
+                            <!-- <a class="dropdown-item" href="./dpto-psicologia.php">Departamento Psicopedagógico</a> -->
                             <!-- <a class="dropdown-item" href="ptrabajo.php">Plan de Trabajo</a> -->
                         </div>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link fw-bold <?= $active3 ?>" href="" id="dropdownId" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="me-2">NIVELES</span><i class="fas fa-caret-down"></i></a>
                         <div class="dropdown-menu" aria-labelledby="dropdownId">
-                            <!-- <ul class="navbar-nav dropend">
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link fw-bold  dropdown-toggle" href="#" data-bs-toggle="dropdown">
-                                        <span style="color:black;"> &nbsp;NIVELES&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-caret-right"></i> <span>
-                                    </a>
-                                    <ul id="subniveles" class="dropdown-menu">
-                                        <li>
-                                            <a class="dropdown-item" id="submenu" href="inicial.php"> ITEM </a>
-                                        </li>
-                                        <li>
-                                            <a class="dropdown-item" id="submenu" href="primaria.php"> ITEM </a>
-                                        </li>
-                                        <li>
-                                            <a class="dropdown-item" id="submenu" href="secundaria.php"> ITEM</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul> -->
+
                             <a class="dropdown-item" href="./primaria.php">Primaria</a>
                             <a class="dropdown-item" href="./secundaria.php">Secundaria</a>
 
@@ -250,7 +233,7 @@ switch ($pagina) {
                         <a class="nav-link fw-bold <?= $active4 ?>" href="" id="dropdownId" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="me-2">POR QUÉ ELEGIRNOS</span><i class="fas fa-caret-down"></i></a>
                         <div class="dropdown-menu" aria-labelledby="dropdownId">
                             <a class="dropdown-item" href="./beneficios.php">Beneficios</a>
-                          <!--   <a class="dropdown-item" href="./alianzas.php">Alianzas</a> -->
+                            <!--   <a class="dropdown-item" href="./alianzas.php">Alianzas</a> -->
 
                             <!-- <a class="dropdown-item" href="ptrabajo.php">Plan de Trabajo</a> -->
                         </div>
@@ -264,8 +247,15 @@ switch ($pagina) {
                     <li class="nav-item fw-bold">
                         <a class="nav-link <?= $active6 ?>" href="./contacto.php">CONTÁCTANOS</a>
                     </li>
-                    <li class="nav-item fw-bold">
-                        <a class="nav-link" href="https://www.colsigloxxi.com/inseducousteau/public/comun/login/logout" target="_blank">INTRANET</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link fw-bold <?= $active7 ?>" href="" id="dropdownId" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="me-2">PLATAFORMAS</span><i class="fas fa-caret-down"></i></a>
+                        <div class="dropdown-menu"  aria-labelledby="dropdownId">
+                            <a class="dropdown-item" href="https://www.colsigloxxi.com/inseducousteau/public/comun/login/logout
+" target="_blank">Intranet </a>
+                            <a class="dropdown-item" href="https://richmondlp.com/
+" target="_blank">Inglés</a>
+
+                        </div>
                     </li>
                 </ul>
             </div>
