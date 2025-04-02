@@ -40,6 +40,9 @@
             left: 15%;
 
         }
+        .img-baner{
+            filter: brightness(50%);
+        }
 
         .text-banner span {
             opacity: 0;
@@ -375,7 +378,7 @@
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="12000">
                     <div style="position:relative;">
-                        <img src="./public/img/banner/banner1.png" class="d-block w-100" alt="...">
+                        <img src="./public/img/banner/banner1_demo.jpg" class=" img-baner d-block w-100" alt="...">
                         <div class="text-banner">
                             <span id="banner-titulo">RESPONSABILIDAD</span>
                             <br>
@@ -389,7 +392,7 @@
                 </div>
                 <div class="carousel-item" data-bs-interval="12000">
                     <div style="position:relative;">
-                        <img src="./public/img/banner/banner2.png" class="d-block w-100" alt="...">
+                        <img src="./public/img/banner/banner2_index.png" class=" img-baner d-block w-100" alt="...">
                         <div class="text-banner">
                             <span id="banner-titulo">EMPATÍA</span>
                             <br>
@@ -403,7 +406,7 @@
                 </div>
                 <div class="carousel-item" data-bs-interval="12000">
                     <div style="position:relative;">
-                        <img src="./public/img/banner/banner3.png" class="d-block w-100" alt="...">
+                        <img src="./public/img/banner/banner3_demo.jpg" class="img-baner d-block w-100" alt="...">
                         <div class="text-banner">
                             <span id="banner-titulo">RESPETO</span>
                             <br>

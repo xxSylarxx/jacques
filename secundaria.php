@@ -31,11 +31,11 @@
     <style>
         #portada {
             background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)),
-                url('./public/img/web/web/portada-secundaria.png');
+                url('./public/img/banner/banner2_demo.jpg');
             background-size: cover;
-            background-position: center;
+            background-position: center 20%;
             height: 100%;
-            padding: 550px 0 10px;
+            padding: 470px 0 10px;
         }
 
         #portada .page_title {
