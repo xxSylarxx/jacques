@@ -254,6 +254,11 @@
         overflow-wrap: break-word;
         word-break: break-all;
     }
+    @media screen and (max-width:600px){
+        footer a {
+            word-break: normal;
+        }
+    }
 </style>
 <footer id="footer" style="position: relative;">
     <a href="#" style="position: absolute; right: 20px; top: 10px; font-size: 36px;">
@@ -288,9 +293,9 @@
             </div>
             <div class="col-lg-4 py-2 px-5">
                 <h4 class="text-start" style="color:var(--color1);">CONTÁCTANOS</h4>
-                <div class="d-flex justify-content-start py-1" style="color:var(--color1);font-family: 'Raleway', sans-serif;"><i class="fas fa-location-arrow" style="color:var(--color2);font-size:.8rem;"></i>&nbsp;&nbsp;<p class="text-start" style="margin-top: -5px; margin-bottom:0px;">&nbsp;&nbsp;Avenida Separadora Industrial #3250 <br> La Molina, Lima - Perú</p>
+                <div class="d-flex justify-content-start py-1" style="color:var(--color1);font-family: 'Raleway', sans-serif;"><i class="fas fa-location-arrow" style="color:var(--color2);font-size:.8rem;"></i><a href="https://www.google.com/maps/place/Av.+Separadora+Industrial+3250,+Lima+15012/@-12.0576405,-76.9474137,17z/data=!3m1!4b1!4m6!3m5!1s0x9105c694e7fbe8f1:0x3a08562c20d83bfd!8m2!3d-12.0576458!4d-76.9448388!16s%2Fg%2F11j37dknmh?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" style="color:var(--color1);" target="_blank"><p class="text-start" style="margin-top: -5px; margin-bottom:0px;">&nbsp;&nbsp;Avenida Separadora Industrial #3250 <br> La Molina, Lima - Perú</p>
                 </div>
-                <div class="d-flex justify-content-start py-1" style="color:var(--color1);font-family: 'Raleway', sans-serif;"><i class="fas fa-phone-alt my-auto" style="color:var(--color2);font-size:.8rem;"></i>&nbsp;&nbsp;(51) 948 886 928</div>
+                <div class="d-flex justify-content-start py-1" style="color:var(--color1);font-family: 'Raleway', sans-serif;"><i class="fas fa-phone-alt my-auto-"  style="color:var(--color2);font-size:.8rem;"></i>&nbsp;&nbsp;<a href="tel:+51948886928" style="color:var(--color1);" target="_blank">(51) 948 886 928</a></div>
                 <div class="d-flex justify-content-start py-1"><i class="fas fa-envelope my-auto" style="color:var(--color2);font-size:.8rem;"></i><a href="mailto:acolegiocousteau2017@gmail.com" style="color:var(--color1);font-family: 'Raleway', sans-serif;">&nbsp;&nbsp;acolegiocousteau2017@gmail.com</a></div>
             </div>
         </div>

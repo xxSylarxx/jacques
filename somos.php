@@ -169,8 +169,8 @@
                     <p>
                         Nuestra visión para el 2025, es que nuestros egresados, formados en el sistema educativo Custoniano, participen con <b>éxito en el campo académico</b> y están orientados
                         sólidamente para un desempeño laboral con <b>iniciativa, creatividad y efectiva solución de problemas</b> en los ámbitos <b>empresariales y/o como profesionales independientes,</b>
-                        destacando por sus principios y valores.
-                        Institucionalmente, somos <b>reconocidos</b> como <b>lideres</b> en la promoción de <b>desarrollo cultural en la zona de influencia.</b>
+                        destacando por sus principios y valores.</p>
+                        <p> Institucionalmente, somos <b>reconocidos</b> como <b>lideres</b> en la promoción de <b>desarrollo cultural en la zona de influencia.</b>
                     </p>
 
                 </div>

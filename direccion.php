@@ -418,7 +418,7 @@
                 </div>
                 <div class="col-lg-6 px-0">
                     <div class="image-box">
-                        <img src="./public/img/web/web/pi-direccion.png" alt="">
+                        <img src="./public/img/web/web/directora_jacques.jpg" alt="">
                         <!-- <div style="position:absolute; width:90%; height:88%; border: 2px solid #fff;top:5%;left:5%;"></div> -->
                     </div>
                 </div>
