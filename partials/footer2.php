@@ -198,7 +198,8 @@
         overflow-wrap: break-word;
         word-break: break-all;
     }
-    @media screen and (max-width:600px){
+
+    @media screen and (max-width:600px) {
         footer a {
             word-break: normal;
         }
@@ -241,8 +242,9 @@
             </div>
             <div class="col-lg-4 py-2 px-5">
                 <h4 class="text-start" style="color:var(--color3);">CONTÁCTANOS</h4>
-                <div class="d-flex justify-content-start py-1" style="color:var(--color3);font-family: 'Raleway', sans-serif;"><i class="fas fa-location-arrow" style="color:var(--color2);font-size:.8rem;"></i><a href="https://www.google.com/maps/place/Av.+Separadora+Industrial+3250,+Lima+15012/@-12.0576405,-76.9474137,17z/data=!3m1!4b1!4m6!3m5!1s0x9105c694e7fbe8f1:0x3a08562c20d83bfd!8m2!3d-12.0576458!4d-76.9448388!16s%2Fg%2F11j37dknmh?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" style="color:var(--color3);" target="_blank"><p class="text-start" style="margin-top: -5px; margin-bottom:0px;">&nbsp;&nbsp;Avenida Separadora Industrial #3250 <br> La Molina, Lima - Perú</p>
-                </a></div>
+                <div class="d-flex justify-content-start py-1" style="color:var(--color3);font-family: 'Raleway', sans-serif;"><i class="fas fa-location-arrow" style="color:var(--color2);font-size:.8rem;"></i><a href="https://www.google.com/maps/place/Av.+Separadora+Industrial+3250,+Lima+15012/@-12.0576405,-76.9474137,17z/data=!3m1!4b1!4m6!3m5!1s0x9105c694e7fbe8f1:0x3a08562c20d83bfd!8m2!3d-12.0576458!4d-76.9448388!16s%2Fg%2F11j37dknmh?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" style="color:var(--color3);" target="_blank">
+                        <p class="text-start" style="margin-top: -5px; margin-bottom:0px;">&nbsp;&nbsp;Avenida Separadora Industrial #3250 <br> La Molina, Lima - Perú</p>
+                    </a></div>
                 <div class="d-flex justify-content-start py-1" style="color:var(--color3);font-family: 'Raleway', sans-serif;"><i class="fas fa-phone-alt my-auto" style="color:var(--color2);font-size:.8rem;"></i>&nbsp;&nbsp;<a href="tel:+51948886928" style="color:var(--color3);" target="_blank">(51) 948 886 928</div>
                 <div class="d-flex justify-content-start py-1"><i class="fas fa-envelope my-auto" style="color:var(--color2);font-size:.8rem;"></i><a href="mailto:acolegiocousteau2017@gmail.com" style="color:var(--color3);font-family: 'Raleway', sans-serif;">&nbsp;&nbsp;acolegiocousteau2017@gmail.com</a></div>
             </div>
@@ -268,10 +270,16 @@
 <section class="container-fluid pb-1" style="background-color:var(--color2);">
     <div class="container">
         <div class="row">
+
             <div class="col d-flex justify-content-start align-items-center">
-                <p class="my-1 text-center" style="font-size: 15px; color:var(--color1)">© 2024 Todos los derechos reservados, Jacques Cousteau.</p>
-                <!-- <p class="my-1 text-center politicas" data-bs-toggle="modal" data-bs-target="#politicasFooter"> Conoce nuestras políticas de privacidad </p> -->
-            </div>
+                <p class="my-1 text-center" style="font-size: 15px; color:var(--color1)">Jacques Cousteau © 2025 </p>
+                <p class="my-1 text-center px-3" style="font-size:15px; color:var(--color1)"><a href="./public/files/politicas-priv-jacques.pdf" target="_blank">Conoce nuestras Politicas de Privacidad</p>
+                </a>
+                </div>
+
+            <!-- <div class="col d-flex justify-content-center align-items-center" style="background-color:var(--color2);">
+                    <p class="my-1 text-center" style="font-size: 14px; color:var(--color1)"> <a href="https://docs.google.com/forms/d/e/1FAIpQLScoNRFs-jb1RUQw7qH0th8b3l6M0GXvhIyJdvSp4UyJlFaxnQ/viewform" target="_blank">Conoce nuestras Políticas de Privacidad</a></p>
+                </div> -->
             <div class="col d-flex justify-content-end align-items-center">
                 <p class="my-1 text-center" style="font-size: 14px; color: #fff">Desarrollado por <a href="https://catalogoweb.cloud-cubicol.com/" target="_blank" style="color: var(--color1); font-weight: bold;">Sensoft</a></p>
             </div>

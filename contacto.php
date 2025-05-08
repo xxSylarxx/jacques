@@ -237,7 +237,7 @@
                                 <div class="form-check form-check-inline text-white ms-3" data-bs-toggle="modal" data-bs-target="#terminosModal">
                                     <input type="checkbox" class="form-check-input" id="checkone" value="si" required>
                                     <label class="form-check-label" for="checkone">
-                                        <a href="#" target="_blank">
+                                        <a href="./public/files/politicas-priv-jacques.pdf" target="_blank">
                                             <p id="terminos"> "He leído y acepto las políticas de privacidad"</p>
                                         </a>
                                     </label>
